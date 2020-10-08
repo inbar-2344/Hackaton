@@ -1,4 +1,23 @@
+body{
+    background-color: rgba(187, 233, 229, 0.712);
+}
+/* 
+#input{
+    background-color: yellow;
+} */
 .container {
+    font-style: inherit;
     font-size: .6rem;
-    margin-bottom: 1rem;
+    margin-bottom: 15rem;
+    
+}
+
+lable{
+    background-color: red;
+
+
+}
+
+div{
+    border-color: black;
 }
