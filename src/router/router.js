@@ -12,7 +12,7 @@ export default function ApplicationRouter() {
             <Switch>
                 <Route exact component={OfriPage} path="/" />
                 <Route exact component={YuvalPage} path="/page1" />
-                <Route exact component={InbarPage} path="/page1" />
+                <Route exact component={InbarPage} path="/page2" />
             </Switch>
         </BrowserRouter>
     )
